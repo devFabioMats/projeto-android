@@ -25,5 +25,5 @@ Uma página com:
 - Cabeçalho com tons de degradê
 - Artigo com títulos, imagens, vídeo e um conteúdo relacionado
 - Lista com marcadoes personalizados
-- Links externos indentificados com emoji
+- Links externos identificados com emoji
 - Rodapé linkado
